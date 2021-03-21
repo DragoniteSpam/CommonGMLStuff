@@ -1,5 +1,10 @@
 {
-  "resources": [],
+  "resources": [
+    {"id":{"name":"Group_String","path":"scripts/Group_String/Group_String.yy",},"order":4,},
+    {"id":{"name":"Group_Buffers","path":"scripts/Group_Buffers/Group_Buffers.yy",},"order":2,},
+    {"id":{"name":"Group_Math","path":"scripts/Group_Math/Group_Math.yy",},"order":3,},
+    {"id":{"name":"Group_Arrays","path":"scripts/Group_Arrays/Group_Arrays.yy",},"order":1,},
+  ],
   "Options": [
     {"name":"HTML5","path":"options/html5/options_html5.yy",},
     {"name":"Linux","path":"options/linux/options_linux.yy",},
