@@ -39,9 +39,10 @@ function array_standard_deviation(array) {
 function array_search(array, value) {
     var i = 0;
     repeat (array_length(array)) {
-        if (array[@ i++] == value) {
+        if (array[@ i] == value) {
             return i;
         }
+        i++;
     }
     return -1;
 };
